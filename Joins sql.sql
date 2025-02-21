@@ -1,0 +1,3 @@
+-- Joins=> ek ya ek se jyada table ko jodne ke liye
+-- consistency
+-- null nahi ani chahiye
