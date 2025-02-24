@@ -1,6 +1,6 @@
 SQL queries -:
 
-1.) rite a SQL query to find top n records?
+1.) Write a SQL query to find top n records?
 -- Example: finding top 5 records from employee table
 
 Query--:
